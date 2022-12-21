@@ -1,0 +1,31 @@
+#include <iostream>
+using namespace std;
+main()
+{
+
+
+cout<<"   --------------------------------------                 "<<endl;
+cout<<"                                                          "<<endl;
+cout<<"                                                        "<<endl;
+cout<<"                                                         "<<endl;
+cout<<"    O        ^___^                                                  "<<endl;
+cout<<"                                                         "<<endl;
+cout<<"      O     ( 00 )\________________                                             "<<endl;
+cout<<"                                                          "<<endl;
+cout<<"            (___)\                                             "<<endl;
+cout<<"                                   )\/\                       "<<endl;
+cout<<"                  | |              |                        "<<endl;
+cout<<"                     -----------W                                 "<<endl;
+cout<<"                  | |            | |                      "<<endl;
+cout<<"                                                          "<<endl;
+
+
+
+
+
+
+
+
+
+
+}
